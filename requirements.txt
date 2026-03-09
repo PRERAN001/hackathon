@@ -1,2 +1,3 @@
-Flask
-Pillow
+Flask==3.0.3
+Pillow==10.4.0
+gunicorn==22.0.0
